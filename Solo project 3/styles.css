@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+    background: #1C1C1C;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    border: white 4px solid;
+    border-radius: 10px;
+    width: 600px;
+    height: 540px;
+    background: #1F2937;
+    color: white;
+}
+
+hr {
+    width: 500px;
+    margin-bottom: 30px;
+    margin-top: 0px;
+    border: 1px solid #2F3E53;
+}
+
+.header {
+    width: 230px;
+    height: 65px;  
+    margin: 45px 144px 0px 52px; 
+    font-family: 'Karla', sans-serif;
+    font-size: 25px;
+}
+
+.surtext {
+    width: 372px; 
+    height: 28px; 
+    margin: 0px 126px 20px 52px;
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+}
+
+#generatePass {
+    width: 191px;
+    height: 42px;
+    margin: 0px 307px 35px 52px;
+    background: #10B981;
+    border-radius: 6px;
+    border: none;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    color: white;
+}
+
+.passwords {
+    display: flex;
+    width: 500px;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.resultP {
+    background: #273549;
+    width: 211px;
+    height: 39px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    color: #55F991;
+    font-size: 16px;
+    font-family: 'Inter';
+}
+
+#prove {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.features {
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    margin: 0px 0px 20px 30px ;
+    font-family: 'Inter', sans-serif;
+}
+
+.minibtn {
+    font-family: 'Inter', sans-serif;
+    color: #283618;
+    background: #4ADF86;
+    border: #2F3E53 1px solid;
+    height: 23px;
+    margin-top: 13px 
+}
+
